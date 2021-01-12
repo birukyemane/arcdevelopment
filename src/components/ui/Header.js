@@ -20,7 +20,7 @@ export default function Header(props){
     return (
         <ElevationScroll>
             <AppBar position="fixed">
-                <Toolbar>Arc development</Toolbar>
+                <Toolbar>AirBow development</Toolbar>
             </AppBar>
         </ElevationScroll> 
     ) 
